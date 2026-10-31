@@ -1,0 +1,12 @@
+{
+  "name": "stitch-client-pwa",
+  "private": true,
+  "version": "2.4.0-active",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {}
+}
